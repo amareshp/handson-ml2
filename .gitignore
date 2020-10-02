@@ -3,6 +3,7 @@
 *.ckpt
 *.old
 *.pyc
+.venv/
 .DS_Store
 .ipynb_checkpoints
 checkpoint
@@ -20,4 +21,5 @@ datasets/spam
 datasets/titanic
 datasets/words
 datasets/jsb_chorales
-
+# IntelliJ
+.idea/
